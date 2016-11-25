@@ -14,6 +14,22 @@
 		A15A09E11DE5E24B00521CF1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A15A09DF1DE5E24B00521CF1 /* LaunchScreen.storyboard */; };
 		A15A09EC1DE5E24B00521CF1 /* PokemonGoGPSTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A15A09EB1DE5E24B00521CF1 /* PokemonGoGPSTests.swift */; };
 		A15A09F71DE5E24B00521CF1 /* PokemonGoGPSUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A15A09F61DE5E24B00521CF1 /* PokemonGoGPSUITests.swift */; };
+		A15A0A051DE5E42F00521CF1 /* nanliao.fast2.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A15A0A041DE5E42F00521CF1 /* nanliao.fast2.gpx */; };
+		A15A0A131DE5FA3800521CF1 /* nl-gym0.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A15A0A061DE5FA3800521CF1 /* nl-gym0.gpx */; };
+		A15A0A141DE5FA3800521CF1 /* nl-gym1.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A15A0A071DE5FA3800521CF1 /* nl-gym1.gpx */; };
+		A15A0A151DE5FA3800521CF1 /* nl-gym2-1.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A15A0A081DE5FA3800521CF1 /* nl-gym2-1.gpx */; };
+		A15A0A161DE5FA3800521CF1 /* nl-gym2.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A15A0A091DE5FA3800521CF1 /* nl-gym2.gpx */; };
+		A15A0A171DE5FA3800521CF1 /* nl-gym3-1.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A15A0A0A1DE5FA3800521CF1 /* nl-gym3-1.gpx */; };
+		A15A0A181DE5FA3800521CF1 /* nl-gym3.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A15A0A0B1DE5FA3800521CF1 /* nl-gym3.gpx */; };
+		A15A0A191DE5FA3800521CF1 /* nl-gym4-1.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A15A0A0C1DE5FA3800521CF1 /* nl-gym4-1.gpx */; };
+		A15A0A1A1DE5FA3800521CF1 /* nl-gym4-2.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A15A0A0D1DE5FA3800521CF1 /* nl-gym4-2.gpx */; };
+		A15A0A1B1DE5FA3800521CF1 /* nl-gym4.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A15A0A0E1DE5FA3800521CF1 /* nl-gym4.gpx */; };
+		A15A0A1C1DE5FA3800521CF1 /* nl-gym5.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A15A0A0F1DE5FA3800521CF1 /* nl-gym5.gpx */; };
+		A15A0A1D1DE5FA3800521CF1 /* nl-gym6.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A15A0A101DE5FA3800521CF1 /* nl-gym6.gpx */; };
+		A15A0A1E1DE5FA3800521CF1 /* nl-gymf-1.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A15A0A111DE5FA3800521CF1 /* nl-gymf-1.gpx */; };
+		A15A0A1F1DE5FA3800521CF1 /* nl-gymf.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A15A0A121DE5FA3800521CF1 /* nl-gymf.gpx */; };
+		A15A0A221DE73C6500521CF1 /* gps.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A15A0A201DE73C6500521CF1 /* gps.gpx */; };
+		A15A0A231DE73C6500521CF1 /* scan.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A15A0A211DE73C6500521CF1 /* scan.gpx */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +63,22 @@
 		A15A09F21DE5E24B00521CF1 /* PokemonGoGPSUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PokemonGoGPSUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A15A09F61DE5E24B00521CF1 /* PokemonGoGPSUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokemonGoGPSUITests.swift; sourceTree = "<group>"; };
 		A15A09F81DE5E24B00521CF1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A15A0A041DE5E42F00521CF1 /* nanliao.fast2.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = nanliao.fast2.gpx; sourceTree = "<group>"; };
+		A15A0A061DE5FA3800521CF1 /* nl-gym0.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "nl-gym0.gpx"; sourceTree = "<group>"; };
+		A15A0A071DE5FA3800521CF1 /* nl-gym1.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "nl-gym1.gpx"; sourceTree = "<group>"; };
+		A15A0A081DE5FA3800521CF1 /* nl-gym2-1.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "nl-gym2-1.gpx"; sourceTree = "<group>"; };
+		A15A0A091DE5FA3800521CF1 /* nl-gym2.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "nl-gym2.gpx"; sourceTree = "<group>"; };
+		A15A0A0A1DE5FA3800521CF1 /* nl-gym3-1.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "nl-gym3-1.gpx"; sourceTree = "<group>"; };
+		A15A0A0B1DE5FA3800521CF1 /* nl-gym3.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "nl-gym3.gpx"; sourceTree = "<group>"; };
+		A15A0A0C1DE5FA3800521CF1 /* nl-gym4-1.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "nl-gym4-1.gpx"; sourceTree = "<group>"; };
+		A15A0A0D1DE5FA3800521CF1 /* nl-gym4-2.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "nl-gym4-2.gpx"; sourceTree = "<group>"; };
+		A15A0A0E1DE5FA3800521CF1 /* nl-gym4.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "nl-gym4.gpx"; sourceTree = "<group>"; };
+		A15A0A0F1DE5FA3800521CF1 /* nl-gym5.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "nl-gym5.gpx"; sourceTree = "<group>"; };
+		A15A0A101DE5FA3800521CF1 /* nl-gym6.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "nl-gym6.gpx"; sourceTree = "<group>"; };
+		A15A0A111DE5FA3800521CF1 /* nl-gymf-1.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "nl-gymf-1.gpx"; sourceTree = "<group>"; };
+		A15A0A121DE5FA3800521CF1 /* nl-gymf.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "nl-gymf.gpx"; sourceTree = "<group>"; };
+		A15A0A201DE73C6500521CF1 /* gps.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = gps.gpx; sourceTree = "<group>"; };
+		A15A0A211DE73C6500521CF1 /* scan.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = scan.gpx; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +109,22 @@
 		A15A09CA1DE5E24B00521CF1 = {
 			isa = PBXGroup;
 			children = (
+				A15A0A201DE73C6500521CF1 /* gps.gpx */,
+				A15A0A211DE73C6500521CF1 /* scan.gpx */,
+				A15A0A061DE5FA3800521CF1 /* nl-gym0.gpx */,
+				A15A0A071DE5FA3800521CF1 /* nl-gym1.gpx */,
+				A15A0A081DE5FA3800521CF1 /* nl-gym2-1.gpx */,
+				A15A0A091DE5FA3800521CF1 /* nl-gym2.gpx */,
+				A15A0A0A1DE5FA3800521CF1 /* nl-gym3-1.gpx */,
+				A15A0A0B1DE5FA3800521CF1 /* nl-gym3.gpx */,
+				A15A0A0C1DE5FA3800521CF1 /* nl-gym4-1.gpx */,
+				A15A0A0D1DE5FA3800521CF1 /* nl-gym4-2.gpx */,
+				A15A0A0E1DE5FA3800521CF1 /* nl-gym4.gpx */,
+				A15A0A0F1DE5FA3800521CF1 /* nl-gym5.gpx */,
+				A15A0A101DE5FA3800521CF1 /* nl-gym6.gpx */,
+				A15A0A111DE5FA3800521CF1 /* nl-gymf-1.gpx */,
+				A15A0A121DE5FA3800521CF1 /* nl-gymf.gpx */,
+				A15A0A041DE5E42F00521CF1 /* nanliao.fast2.gpx */,
 				A15A09D51DE5E24B00521CF1 /* PokemonGoGPS */,
 				A15A09EA1DE5E24B00521CF1 /* PokemonGoGPSTests */,
 				A15A09F51DE5E24B00521CF1 /* PokemonGoGPSUITests */,
@@ -235,9 +283,25 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A15A0A221DE73C6500521CF1 /* gps.gpx in Resources */,
 				A15A09E11DE5E24B00521CF1 /* LaunchScreen.storyboard in Resources */,
+				A15A0A1D1DE5FA3800521CF1 /* nl-gym6.gpx in Resources */,
+				A15A0A1E1DE5FA3800521CF1 /* nl-gymf-1.gpx in Resources */,
+				A15A0A141DE5FA3800521CF1 /* nl-gym1.gpx in Resources */,
+				A15A0A151DE5FA3800521CF1 /* nl-gym2-1.gpx in Resources */,
+				A15A0A1B1DE5FA3800521CF1 /* nl-gym4.gpx in Resources */,
+				A15A0A171DE5FA3800521CF1 /* nl-gym3-1.gpx in Resources */,
+				A15A0A231DE73C6500521CF1 /* scan.gpx in Resources */,
 				A15A09DE1DE5E24B00521CF1 /* Assets.xcassets in Resources */,
+				A15A0A1F1DE5FA3800521CF1 /* nl-gymf.gpx in Resources */,
+				A15A0A131DE5FA3800521CF1 /* nl-gym0.gpx in Resources */,
+				A15A0A1C1DE5FA3800521CF1 /* nl-gym5.gpx in Resources */,
+				A15A0A051DE5E42F00521CF1 /* nanliao.fast2.gpx in Resources */,
+				A15A0A161DE5FA3800521CF1 /* nl-gym2.gpx in Resources */,
 				A15A09DC1DE5E24B00521CF1 /* Main.storyboard in Resources */,
+				A15A0A1A1DE5FA3800521CF1 /* nl-gym4-2.gpx in Resources */,
+				A15A0A181DE5FA3800521CF1 /* nl-gym3.gpx in Resources */,
+				A15A0A191DE5FA3800521CF1 /* nl-gym4-1.gpx in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -417,6 +481,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 68VEJ39TC4;
 				INFOPLIST_FILE = PokemonGoGPS/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Skiff-Studio.PokemonGoGPS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -430,6 +495,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 68VEJ39TC4;
 				INFOPLIST_FILE = PokemonGoGPS/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Skiff-Studio.PokemonGoGPS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -514,6 +580,7 @@
 				A15A09FD1DE5E24B00521CF1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A15A09FE1DE5E24B00521CF1 /* Build configuration list for PBXNativeTarget "PokemonGoGPSTests" */ = {
 			isa = XCConfigurationList;
@@ -522,6 +589,7 @@
 				A15A0A001DE5E24B00521CF1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A15A0A011DE5E24B00521CF1 /* Build configuration list for PBXNativeTarget "PokemonGoGPSUITests" */ = {
 			isa = XCConfigurationList;
@@ -530,6 +598,7 @@
 				A15A0A031DE5E24B00521CF1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
