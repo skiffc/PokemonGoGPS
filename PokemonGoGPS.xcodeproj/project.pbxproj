@@ -31,6 +31,7 @@
 		A15A0A221DE73C6500521CF1 /* gps.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A15A0A201DE73C6500521CF1 /* gps.gpx */; };
 		A15A0A231DE73C6500521CF1 /* scan.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A15A0A211DE73C6500521CF1 /* scan.gpx */; };
 		A1E0E2CE1F0AA8170074C966 /* move.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A1E0E2CD1F0AA8170074C966 /* move.gpx */; };
+		A1E0E2D01F1256010074C966 /* chubei.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A1E0E2CF1F1256010074C966 /* chubei.gpx */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -81,6 +82,7 @@
 		A15A0A201DE73C6500521CF1 /* gps.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = gps.gpx; sourceTree = "<group>"; };
 		A15A0A211DE73C6500521CF1 /* scan.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = scan.gpx; sourceTree = "<group>"; };
 		A1E0E2CD1F0AA8170074C966 /* move.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = move.gpx; sourceTree = "<group>"; };
+		A1E0E2CF1F1256010074C966 /* chubei.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = chubei.gpx; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +113,7 @@
 		A15A09CA1DE5E24B00521CF1 = {
 			isa = PBXGroup;
 			children = (
+				A1E0E2CF1F1256010074C966 /* chubei.gpx */,
 				A1E0E2CD1F0AA8170074C966 /* move.gpx */,
 				A15A0A201DE73C6500521CF1 /* gps.gpx */,
 				A15A0A211DE73C6500521CF1 /* scan.gpx */,
@@ -303,6 +306,7 @@
 				A15A0A161DE5FA3800521CF1 /* nl-gym2.gpx in Resources */,
 				A15A09DC1DE5E24B00521CF1 /* Main.storyboard in Resources */,
 				A1E0E2CE1F0AA8170074C966 /* move.gpx in Resources */,
+				A1E0E2D01F1256010074C966 /* chubei.gpx in Resources */,
 				A15A0A1A1DE5FA3800521CF1 /* nl-gym4-2.gpx in Resources */,
 				A15A0A181DE5FA3800521CF1 /* nl-gym3.gpx in Resources */,
 				A15A0A191DE5FA3800521CF1 /* nl-gym4-1.gpx in Resources */,
