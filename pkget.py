@@ -59,14 +59,16 @@ def pokemons_from_pkget( pos, zoom = 2 ):
     cd2 = ( 121.01303100585939 - 120.97423553466798 ) /zoom
 
 
-    c = "curl 'https://pkget.com/pkm333.ashx?v1=111&v2=%f&v3=%f&v4=%f&v5=%f&v6=0' -H 'Cookie: ASP.NET_SessionId=t412njlnw0je1yvvwzicu5h4; _ga=GA1.2.810889542.1472951395; _gat=1; pkgetcom=lat0=%f&lng0=%f&lat1=%f&lng1=%f' -H 'Accept-Encoding: gzip, deflate, sdch, br' -H 'Accept-Language: zh-TW,zh;q=0.8,en-US;q=0.6,en;q=0.4' -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36' -H 'Accept: application/json, text/javascript, */*; q=0.01' -H 'Referer: https://pkget.com/' -H 'X-Requested-With: XMLHttpRequest' -H 'Connection: keep-alive' --compressed 2>/dev/null" % ( pos[0] + d1, pos[1] + d2, pos[0] - d1, pos[1] - d2, pos[0] + cd1, pos[1] + cd2, pos[0] - cd1, pos[1] - cd2 )
+    c = "curl 'https://pkget.com/fp.ashx?a=%f&b=%f&c=%f&d=%f&e=1_1&f=fJwfBKujfRZ2AKkEbHJzqIJzEeEfjSsLYAJaF9YH3djsS7z13yKB%%2BCqAbQUGCtQ3&g=4NqROlwqrT%%2Fl7SuJ820NSelW2rN9MkoITbxrNay6leo%%3D&h=&j=765' -H 'Cookie: ASP.NET_SessionId=4313y42kxovkxkclg4m4s1ue; __gads=ID=af258e6421716de8:T=1499504590:S=ALNI_MaKvNSE7KrDe58kpl789QZBygvy-w; pkgetcomL=1; pkgetcomGen=1; ga=ga=1.1.222588955.1419666884; pkll=24.8032720%%2C120.960845; _ga=GA1.2.1157477300.1498827654; _gid=GA1.2.801311312.1500209470; _gat=1; pkllg=24.8202288%%2C121.00793619999997; pkgetcom=lat0=%f&lng0=%f&lat1=%f&lng1=%f' -H 'Accept-Encoding: gzip, deflate, br' -H 'Accept-Language: zh-TW,zh;q=0.8,en-US;q=0.6,en;q=0.4,zh-CN;q=0.2' -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36' -H 'Accept: application/json, text/javascript, */*; q=0.01' -H 'Referer: https://pkget.com/' -H 'X-Requested-With: XMLHttpRequest' -H 'Connection: keep-alive' --compressed" % ( pos[0] + d1, pos[1] + d2, pos[0] - d1, pos[1] - d2, pos[0] + cd1, pos[1] + cd2, pos[0] - cd1, pos[1] - cd2 )
+
+    #c = "curl 'https://pkget.com/pkm333.ashx?v1=111&v2=%f&v3=%f&v4=%f&v5=%f&v6=0' -H 'Cookie: ASP.NET_SessionId=t412njlnw0je1yvvwzicu5h4; _ga=GA1.2.810889542.1472951395; _gat=1; pkgetcom=lat0=%f&lng0=%f&lat1=%f&lng1=%f' -H 'Accept-Encoding: gzip, deflate, sdch, br' -H 'Accept-Language: zh-TW,zh;q=0.8,en-US;q=0.6,en;q=0.4' -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36' -H 'Accept: application/json, text/javascript, */*; q=0.01' -H 'Referer: https://pkget.com/' -H 'X-Requested-With: XMLHttpRequest' -H 'Connection: keep-alive' --compressed 2>/dev/null" % ( pos[0] + d1, pos[1] + d2, pos[0] - d1, pos[1] - d2, pos[0] + cd1, pos[1] + cd2, pos[0] - cd1, pos[1] - cd2 )
     #print(c)
     o = os.popen( c ).read()
 
     pokemons = []
     try:
         j = json.loads(o)
-        for p in j['pk123']:
+        for p in j['fp']:
             #print p
             if 'd2' not in p:
                 p['d2'] = pid['%03d' % int(p['d1'])]
