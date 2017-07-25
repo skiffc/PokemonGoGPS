@@ -19,6 +19,14 @@
 		A15A0A231DE73C6500521CF1 /* scan.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A15A0A211DE73C6500521CF1 /* scan.gpx */; };
 		A1A4D8621F244BEB0034E21B /* liuchia.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A1A4D8611F244BEB0034E21B /* liuchia.gpx */; };
 		A1A4D8641F24643C0034E21B /* fushin.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A1A4D8631F24643C0034E21B /* fushin.gpx */; };
+		A1A4D8661F24C6D10034E21B /* 台北101.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A1A4D8651F24C6D10034E21B /* 台北101.gpx */; };
+		A1A4D8681F25566D0034E21B /* 大安森林公園.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A1A4D8671F25566D0034E21B /* 大安森林公園.gpx */; };
+		A1A4D86A1F25718C0034E21B /* 板橋.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A1A4D8691F25718C0034E21B /* 板橋.gpx */; };
+		A1A4D86C1F2626110034E21B /* 文山區.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A1A4D86B1F2626110034E21B /* 文山區.gpx */; };
+		A1A4D86E1F2639920034E21B /* 新店.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A1A4D86D1F2639920034E21B /* 新店.gpx */; };
+		A1A4D8701F2643490034E21B /* 碧潭.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A1A4D86F1F2643490034E21B /* 碧潭.gpx */; };
+		A1A4D8721F264B8A0034E21B /* 中和.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A1A4D8711F264B8A0034E21B /* 中和.gpx */; };
+		A1A4D8741F2665110034E21B /* 永和.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A1A4D8731F2665110034E21B /* 永和.gpx */; };
 		A1E0E2CE1F0AA8170074C966 /* move.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A1E0E2CD1F0AA8170074C966 /* move.gpx */; };
 		A1E0E2D01F1256010074C966 /* chubei.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A1E0E2CF1F1256010074C966 /* chubei.gpx */; };
 /* End PBXBuildFile section */
@@ -59,6 +67,14 @@
 		A15A0A211DE73C6500521CF1 /* scan.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = scan.gpx; sourceTree = "<group>"; };
 		A1A4D8611F244BEB0034E21B /* liuchia.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = liuchia.gpx; sourceTree = "<group>"; };
 		A1A4D8631F24643C0034E21B /* fushin.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = fushin.gpx; sourceTree = "<group>"; };
+		A1A4D8651F24C6D10034E21B /* 台北101.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "台北101.gpx"; sourceTree = "<group>"; };
+		A1A4D8671F25566D0034E21B /* 大安森林公園.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "大安森林公園.gpx"; sourceTree = "<group>"; };
+		A1A4D8691F25718C0034E21B /* 板橋.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "板橋.gpx"; sourceTree = "<group>"; };
+		A1A4D86B1F2626110034E21B /* 文山區.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "文山區.gpx"; sourceTree = "<group>"; };
+		A1A4D86D1F2639920034E21B /* 新店.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "新店.gpx"; sourceTree = "<group>"; };
+		A1A4D86F1F2643490034E21B /* 碧潭.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "碧潭.gpx"; sourceTree = "<group>"; };
+		A1A4D8711F264B8A0034E21B /* 中和.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "中和.gpx"; sourceTree = "<group>"; };
+		A1A4D8731F2665110034E21B /* 永和.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "永和.gpx"; sourceTree = "<group>"; };
 		A1E0E2CD1F0AA8170074C966 /* move.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = move.gpx; sourceTree = "<group>"; };
 		A1E0E2CF1F1256010074C966 /* chubei.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = chubei.gpx; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -91,6 +107,14 @@
 		A15A09CA1DE5E24B00521CF1 = {
 			isa = PBXGroup;
 			children = (
+				A1A4D8731F2665110034E21B /* 永和.gpx */,
+				A1A4D8711F264B8A0034E21B /* 中和.gpx */,
+				A1A4D86F1F2643490034E21B /* 碧潭.gpx */,
+				A1A4D86D1F2639920034E21B /* 新店.gpx */,
+				A1A4D86B1F2626110034E21B /* 文山區.gpx */,
+				A1A4D8691F25718C0034E21B /* 板橋.gpx */,
+				A1A4D8671F25566D0034E21B /* 大安森林公園.gpx */,
+				A1A4D8651F24C6D10034E21B /* 台北101.gpx */,
 				A1A4D8631F24643C0034E21B /* fushin.gpx */,
 				A1A4D8611F244BEB0034E21B /* liuchia.gpx */,
 				A1E0E2CF1F1256010074C966 /* chubei.gpx */,
@@ -256,16 +280,24 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A1A4D86E1F2639920034E21B /* 新店.gpx in Resources */,
+				A1A4D86C1F2626110034E21B /* 文山區.gpx in Resources */,
+				A1A4D86A1F25718C0034E21B /* 板橋.gpx in Resources */,
 				A1A4D8641F24643C0034E21B /* fushin.gpx in Resources */,
 				A15A0A221DE73C6500521CF1 /* gps.gpx in Resources */,
+				A1A4D8681F25566D0034E21B /* 大安森林公園.gpx in Resources */,
 				A15A09E11DE5E24B00521CF1 /* LaunchScreen.storyboard in Resources */,
+				A1A4D8701F2643490034E21B /* 碧潭.gpx in Resources */,
 				A15A0A231DE73C6500521CF1 /* scan.gpx in Resources */,
 				A15A09DE1DE5E24B00521CF1 /* Assets.xcassets in Resources */,
 				A15A0A051DE5E42F00521CF1 /* nanliao.fast2.gpx in Resources */,
 				A1A4D8621F244BEB0034E21B /* liuchia.gpx in Resources */,
+				A1A4D8661F24C6D10034E21B /* 台北101.gpx in Resources */,
 				A15A09DC1DE5E24B00521CF1 /* Main.storyboard in Resources */,
+				A1A4D8721F264B8A0034E21B /* 中和.gpx in Resources */,
 				A1E0E2CE1F0AA8170074C966 /* move.gpx in Resources */,
 				A1E0E2D01F1256010074C966 /* chubei.gpx in Resources */,
+				A1A4D8741F2665110034E21B /* 永和.gpx in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
