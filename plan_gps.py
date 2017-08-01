@@ -8,7 +8,7 @@ from math import sqrt
 
 buf = ""
 pos = []
-speed = 0.0001
+speed = 0.000050
 circle = 0.0003
 for p in open( sys.argv[1] ):
     tpos = []
@@ -23,7 +23,9 @@ for p in open( sys.argv[1] ):
         #print dis2
         if dis2 < circle: 
             break
-        if dis2 > circle * 1.5:
+        if dis2 > circle * 3:
+            r = min( random.random() * 0.9, 1 )
+        elif dis2 > circle * 1.5:
             r = max( random.random() * 0.9, 0.6 )
         else:
             r = max( random.random() * 0.7, 0.4 )
