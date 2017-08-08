@@ -38,6 +38,7 @@
 		A1A4D8861F30AD910034E21B /* 新竹火車站.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A1A4D8851F30AD910034E21B /* 新竹火車站.gpx */; };
 		A1A4D8881F30BCBD0034E21B /* 新竹麗池公園.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A1A4D8871F30BCBD0034E21B /* 新竹麗池公園.gpx */; };
 		A1A4D88A1F31F0BD0034E21B /* 清華大學.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A1A4D8891F31F0BD0034E21B /* 清華大學.gpx */; };
+		A1A4D88C1F32A0AF0034E21B /* 交通大學.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A1A4D88B1F32A0AF0034E21B /* 交通大學.gpx */; };
 		A1E0E2CE1F0AA8170074C966 /* move.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A1E0E2CD1F0AA8170074C966 /* move.gpx */; };
 		A1E0E2D01F1256010074C966 /* chubei.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A1E0E2CF1F1256010074C966 /* chubei.gpx */; };
 /* End PBXBuildFile section */
@@ -97,6 +98,7 @@
 		A1A4D8851F30AD910034E21B /* 新竹火車站.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "新竹火車站.gpx"; sourceTree = "<group>"; };
 		A1A4D8871F30BCBD0034E21B /* 新竹麗池公園.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "新竹麗池公園.gpx"; sourceTree = "<group>"; };
 		A1A4D8891F31F0BD0034E21B /* 清華大學.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "清華大學.gpx"; sourceTree = "<group>"; };
+		A1A4D88B1F32A0AF0034E21B /* 交通大學.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "交通大學.gpx"; sourceTree = "<group>"; };
 		A1E0E2CD1F0AA8170074C966 /* move.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = move.gpx; sourceTree = "<group>"; };
 		A1E0E2CF1F1256010074C966 /* chubei.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = chubei.gpx; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -129,6 +131,7 @@
 		A15A09CA1DE5E24B00521CF1 = {
 			isa = PBXGroup;
 			children = (
+				A1A4D88B1F32A0AF0034E21B /* 交通大學.gpx */,
 				A1A4D8891F31F0BD0034E21B /* 清華大學.gpx */,
 				A1A4D8871F30BCBD0034E21B /* 新竹麗池公園.gpx */,
 				A1A4D8851F30AD910034E21B /* 新竹火車站.gpx */,
@@ -321,6 +324,7 @@
 				A1A4D87C1F290B6F0034E21B /* 東台南.gpx in Resources */,
 				A15A0A221DE73C6500521CF1 /* gps.gpx in Resources */,
 				A1A4D8681F25566D0034E21B /* 大安森林公園.gpx in Resources */,
+				A1A4D88C1F32A0AF0034E21B /* 交通大學.gpx in Resources */,
 				A15A09E11DE5E24B00521CF1 /* LaunchScreen.storyboard in Resources */,
 				A1A4D8881F30BCBD0034E21B /* 新竹麗池公園.gpx in Resources */,
 				A1A4D8701F2643490034E21B /* 碧潭.gpx in Resources */,
