@@ -17,7 +17,6 @@
 		A15A09E11DE5E24B00521CF1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A15A09DF1DE5E24B00521CF1 /* LaunchScreen.storyboard */; };
 		A15A09EC1DE5E24B00521CF1 /* PokemonGoGPSTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A15A09EB1DE5E24B00521CF1 /* PokemonGoGPSTests.swift */; };
 		A15A09F71DE5E24B00521CF1 /* PokemonGoGPSUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A15A09F61DE5E24B00521CF1 /* PokemonGoGPSUITests.swift */; };
-		A15A0A221DE73C6500521CF1 /* gps.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A15A0A201DE73C6500521CF1 /* gps.gpx */; };
 		A15A0A231DE73C6500521CF1 /* scan.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A15A0A211DE73C6500521CF1 /* scan.gpx */; };
 		A1A4D8681F25566D0034E21B /* 大安森林公園.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A1A4D8671F25566D0034E21B /* 大安森林公園.gpx */; };
 		A1A4D8801F2A48F40034E21B /* 大台北.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A1A4D87F1F2A48F40034E21B /* 大台北.gpx */; };
@@ -25,6 +24,7 @@
 		A1A4D88A1F31F0BD0034E21B /* 清華大學.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A1A4D8891F31F0BD0034E21B /* 清華大學.gpx */; };
 		A1E0E2CE1F0AA8170074C966 /* move.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A1E0E2CD1F0AA8170074C966 /* move.gpx */; };
 		A1E0E2D01F1256010074C966 /* chubei.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A1E0E2CF1F1256010074C966 /* chubei.gpx */; };
+		A1E6F5471F4F401C006A0572 /* gps.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A1E6F5461F4F401C006A0572 /* gps.gpx */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -61,7 +61,6 @@
 		A15A09F21DE5E24B00521CF1 /* PokemonGoGPSUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PokemonGoGPSUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A15A09F61DE5E24B00521CF1 /* PokemonGoGPSUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokemonGoGPSUITests.swift; sourceTree = "<group>"; };
 		A15A09F81DE5E24B00521CF1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		A15A0A201DE73C6500521CF1 /* gps.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = gps.gpx; sourceTree = "<group>"; };
 		A15A0A211DE73C6500521CF1 /* scan.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = scan.gpx; sourceTree = "<group>"; };
 		A1A4D8671F25566D0034E21B /* 大安森林公園.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "大安森林公園.gpx"; sourceTree = "<group>"; };
 		A1A4D87F1F2A48F40034E21B /* 大台北.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "大台北.gpx"; sourceTree = "<group>"; };
@@ -69,6 +68,7 @@
 		A1A4D8891F31F0BD0034E21B /* 清華大學.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "清華大學.gpx"; sourceTree = "<group>"; };
 		A1E0E2CD1F0AA8170074C966 /* move.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = move.gpx; sourceTree = "<group>"; };
 		A1E0E2CF1F1256010074C966 /* chubei.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = chubei.gpx; sourceTree = "<group>"; };
+		A1E6F5461F4F401C006A0572 /* gps.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = gps.gpx; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +99,7 @@
 		A15A09CA1DE5E24B00521CF1 = {
 			isa = PBXGroup;
 			children = (
+				A1E6F5461F4F401C006A0572 /* gps.gpx */,
 				A110F3931F4DB1A4005F183E /* 中壢.gpx */,
 				A110F3911F4C7250005F183E /* 竹北.gpx */,
 				A110F38F1F41E92A005F183E /* 橫濱.gpx */,
@@ -108,7 +109,6 @@
 				A1A4D8671F25566D0034E21B /* 大安森林公園.gpx */,
 				A1E0E2CF1F1256010074C966 /* chubei.gpx */,
 				A1E0E2CD1F0AA8170074C966 /* move.gpx */,
-				A15A0A201DE73C6500521CF1 /* gps.gpx */,
 				A15A0A211DE73C6500521CF1 /* scan.gpx */,
 				A15A09D51DE5E24B00521CF1 /* PokemonGoGPS */,
 				A15A09EA1DE5E24B00521CF1 /* PokemonGoGPSTests */,
@@ -268,8 +268,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A1E6F5471F4F401C006A0572 /* gps.gpx in Resources */,
 				A110F3921F4C7250005F183E /* 竹北.gpx in Resources */,
-				A15A0A221DE73C6500521CF1 /* gps.gpx in Resources */,
 				A110F3941F4DB1A4005F183E /* 中壢.gpx in Resources */,
 				A1A4D8681F25566D0034E21B /* 大安森林公園.gpx in Resources */,
 				A15A09E11DE5E24B00521CF1 /* LaunchScreen.storyboard in Resources */,
