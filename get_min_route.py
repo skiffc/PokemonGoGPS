@@ -49,11 +49,14 @@ def get_route( points ):
     return route
 if __name__ == "__main__":
     points = []
-    for p in open( 'dgpx' ):
-        s = p.strip().split()
-        pos = s[3].split(',')
+    for p in open( 'dpath' ):
+        pos = p.strip().split(',')
         pos = ( float(pos[0]), float(pos[1]) )
-        print pos
+        #print pos
         points.append( pos )
-        get_route( points )
+    o = get_route( points )
 
+    with open( 'route', 'w' ) as w:
+        for p in o:
+            w.write( '%f,%f\n' % points[p] )
+ 

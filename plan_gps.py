@@ -23,7 +23,9 @@ for p in open( sys.argv[1] ):
         #print dis2
         if dis2 < circle: 
             break
-        if dis2 > circle * 3:
+        if dis2 > circle * 10:
+            r = min( random.random() * 2, 1.5 )
+        elif dis2 > circle * 3:
             r = min( random.random() * 0.9, 1 )
         elif dis2 > circle * 1.5:
             r = max( random.random() * 0.9, 0.6 )
