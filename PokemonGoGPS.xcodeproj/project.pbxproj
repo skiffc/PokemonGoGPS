@@ -24,7 +24,6 @@
 		A1A4D88A1F31F0BD0034E21B /* 清華大學.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A1A4D8891F31F0BD0034E21B /* 清華大學.gpx */; };
 		A1E0E2CE1F0AA8170074C966 /* move.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A1E0E2CD1F0AA8170074C966 /* move.gpx */; };
 		A1E0E2D01F1256010074C966 /* chubei.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A1E0E2CF1F1256010074C966 /* chubei.gpx */; };
-		A1E6F5471F4F401C006A0572 /* gps.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A1E6F5461F4F401C006A0572 /* gps.gpx */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -68,7 +67,6 @@
 		A1A4D8891F31F0BD0034E21B /* 清華大學.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "清華大學.gpx"; sourceTree = "<group>"; };
 		A1E0E2CD1F0AA8170074C966 /* move.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = move.gpx; sourceTree = "<group>"; };
 		A1E0E2CF1F1256010074C966 /* chubei.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = chubei.gpx; sourceTree = "<group>"; };
-		A1E6F5461F4F401C006A0572 /* gps.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = gps.gpx; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,7 +97,6 @@
 		A15A09CA1DE5E24B00521CF1 = {
 			isa = PBXGroup;
 			children = (
-				A1E6F5461F4F401C006A0572 /* gps.gpx */,
 				A110F3931F4DB1A4005F183E /* 中壢.gpx */,
 				A110F3911F4C7250005F183E /* 竹北.gpx */,
 				A110F38F1F41E92A005F183E /* 橫濱.gpx */,
@@ -268,7 +265,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A1E6F5471F4F401C006A0572 /* gps.gpx in Resources */,
 				A110F3921F4C7250005F183E /* 竹北.gpx in Resources */,
 				A110F3941F4DB1A4005F183E /* 中壢.gpx in Resources */,
 				A1A4D8681F25566D0034E21B /* 大安森林公園.gpx in Resources */,
