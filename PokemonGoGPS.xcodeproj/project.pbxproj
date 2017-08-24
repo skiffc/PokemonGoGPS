@@ -22,6 +22,7 @@
 		A1A4D8801F2A48F40034E21B /* 大台北.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A1A4D87F1F2A48F40034E21B /* 大台北.gpx */; };
 		A1A4D8861F30AD910034E21B /* 新竹火車站.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A1A4D8851F30AD910034E21B /* 新竹火車站.gpx */; };
 		A1A4D88A1F31F0BD0034E21B /* 清華大學.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A1A4D8891F31F0BD0034E21B /* 清華大學.gpx */; };
+		A1D880FF1F4F44E10097520E /* gps.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A1D880FE1F4F44E10097520E /* gps.gpx */; };
 		A1E0E2CE1F0AA8170074C966 /* move.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A1E0E2CD1F0AA8170074C966 /* move.gpx */; };
 		A1E0E2D01F1256010074C966 /* chubei.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A1E0E2CF1F1256010074C966 /* chubei.gpx */; };
 /* End PBXBuildFile section */
@@ -65,6 +66,7 @@
 		A1A4D87F1F2A48F40034E21B /* 大台北.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "大台北.gpx"; sourceTree = "<group>"; };
 		A1A4D8851F30AD910034E21B /* 新竹火車站.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "新竹火車站.gpx"; sourceTree = "<group>"; };
 		A1A4D8891F31F0BD0034E21B /* 清華大學.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "清華大學.gpx"; sourceTree = "<group>"; };
+		A1D880FE1F4F44E10097520E /* gps.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = gps.gpx; sourceTree = "<group>"; };
 		A1E0E2CD1F0AA8170074C966 /* move.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = move.gpx; sourceTree = "<group>"; };
 		A1E0E2CF1F1256010074C966 /* chubei.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = chubei.gpx; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -97,6 +99,7 @@
 		A15A09CA1DE5E24B00521CF1 = {
 			isa = PBXGroup;
 			children = (
+				A1D880FE1F4F44E10097520E /* gps.gpx */,
 				A110F3931F4DB1A4005F183E /* 中壢.gpx */,
 				A110F3911F4C7250005F183E /* 竹北.gpx */,
 				A110F38F1F41E92A005F183E /* 橫濱.gpx */,
@@ -265,6 +268,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A1D880FF1F4F44E10097520E /* gps.gpx in Resources */,
 				A110F3921F4C7250005F183E /* 竹北.gpx in Resources */,
 				A110F3941F4DB1A4005F183E /* 中壢.gpx in Resources */,
 				A1A4D8681F25566D0034E21B /* 大安森林公園.gpx in Resources */,
