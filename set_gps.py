@@ -22,5 +22,8 @@ buf += '<wpt lat="%f" lon="%f"></wpt>\n' % ( center[0] - 0.000004, center[1] + 0
 buf += '<wpt lat="%f" lon="%f"></wpt>\n' % ( center[0] + 0.000004, center[1] + 0.000002 ) 
 
 buf += '</gpx>'
-open( 'gps.gpx', 'w' ).write( buf )
+w = open( 'gps.gpx', 'w' )
+w.write( buf )
+w.close()
+
 os.system( 'osascript update_gps.scpt' )
