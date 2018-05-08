@@ -18,6 +18,7 @@
 		A15A09EC1DE5E24B00521CF1 /* PokemonGoGPSTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A15A09EB1DE5E24B00521CF1 /* PokemonGoGPSTests.swift */; };
 		A15A09F71DE5E24B00521CF1 /* PokemonGoGPSUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A15A09F61DE5E24B00521CF1 /* PokemonGoGPSUITests.swift */; };
 		A15A0A231DE73C6500521CF1 /* scan.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A15A0A211DE73C6500521CF1 /* scan.gpx */; };
+		A194AF2C1F61D31800F99A8F /* 桃園.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A194AF2B1F61D31800F99A8F /* 桃園.gpx */; };
 		A1A4D8681F25566D0034E21B /* 大安森林公園.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A1A4D8671F25566D0034E21B /* 大安森林公園.gpx */; };
 		A1A4D8801F2A48F40034E21B /* 大台北.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A1A4D87F1F2A48F40034E21B /* 大台北.gpx */; };
 		A1A4D8861F30AD910034E21B /* 新竹火車站.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A1A4D8851F30AD910034E21B /* 新竹火車站.gpx */; };
@@ -62,6 +63,7 @@
 		A15A09F61DE5E24B00521CF1 /* PokemonGoGPSUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokemonGoGPSUITests.swift; sourceTree = "<group>"; };
 		A15A09F81DE5E24B00521CF1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A15A0A211DE73C6500521CF1 /* scan.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = scan.gpx; sourceTree = "<group>"; };
+		A194AF2B1F61D31800F99A8F /* 桃園.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "桃園.gpx"; sourceTree = "<group>"; };
 		A1A4D8671F25566D0034E21B /* 大安森林公園.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "大安森林公園.gpx"; sourceTree = "<group>"; };
 		A1A4D87F1F2A48F40034E21B /* 大台北.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "大台北.gpx"; sourceTree = "<group>"; };
 		A1A4D8851F30AD910034E21B /* 新竹火車站.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "新竹火車站.gpx"; sourceTree = "<group>"; };
@@ -99,6 +101,7 @@
 		A15A09CA1DE5E24B00521CF1 = {
 			isa = PBXGroup;
 			children = (
+				A194AF2B1F61D31800F99A8F /* 桃園.gpx */,
 				A1D880FE1F4F44E10097520E /* gps.gpx */,
 				A110F3931F4DB1A4005F183E /* 中壢.gpx */,
 				A110F3911F4C7250005F183E /* 竹北.gpx */,
@@ -278,6 +281,7 @@
 				A1A4D88A1F31F0BD0034E21B /* 清華大學.gpx in Resources */,
 				A1A4D8801F2A48F40034E21B /* 大台北.gpx in Resources */,
 				A15A09DC1DE5E24B00521CF1 /* Main.storyboard in Resources */,
+				A194AF2C1F61D31800F99A8F /* 桃園.gpx in Resources */,
 				A1E0E2CE1F0AA8170074C966 /* move.gpx in Resources */,
 				A1E0E2D01F1256010074C966 /* chubei.gpx in Resources */,
 				A1A4D8861F30AD910034E21B /* 新竹火車站.gpx in Resources */,
