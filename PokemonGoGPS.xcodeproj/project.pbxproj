@@ -10,6 +10,8 @@
 		A110F3901F41E92A005F183E /* 橫濱.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A110F38F1F41E92A005F183E /* 橫濱.gpx */; };
 		A110F3921F4C7250005F183E /* 竹北.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A110F3911F4C7250005F183E /* 竹北.gpx */; };
 		A110F3941F4DB1A4005F183E /* 中壢.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A110F3931F4DB1A4005F183E /* 中壢.gpx */; };
+		A139C4E220A5E81D0023B617 /* mob.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A139C4E120A5E81D0023B617 /* mob.gpx */; };
+		A139C4E420A5FCEC0023B617 /* mew2-3.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A139C4E320A5FCEC0023B617 /* mew2-3.gpx */; };
 		A15A09D71DE5E24B00521CF1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A15A09D61DE5E24B00521CF1 /* AppDelegate.swift */; };
 		A15A09D91DE5E24B00521CF1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A15A09D81DE5E24B00521CF1 /* ViewController.swift */; };
 		A15A09DC1DE5E24B00521CF1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A15A09DA1DE5E24B00521CF1 /* Main.storyboard */; };
@@ -49,6 +51,8 @@
 		A110F38F1F41E92A005F183E /* 橫濱.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "橫濱.gpx"; sourceTree = "<group>"; };
 		A110F3911F4C7250005F183E /* 竹北.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "竹北.gpx"; sourceTree = "<group>"; };
 		A110F3931F4DB1A4005F183E /* 中壢.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "中壢.gpx"; sourceTree = "<group>"; };
+		A139C4E120A5E81D0023B617 /* mob.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = mob.gpx; sourceTree = "<group>"; };
+		A139C4E320A5FCEC0023B617 /* mew2-3.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "mew2-3.gpx"; sourceTree = "<group>"; };
 		A15A09D31DE5E24B00521CF1 /* PokemonGoGPS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PokemonGoGPS.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A15A09D61DE5E24B00521CF1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A15A09D81DE5E24B00521CF1 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -101,6 +105,8 @@
 		A15A09CA1DE5E24B00521CF1 = {
 			isa = PBXGroup;
 			children = (
+				A139C4E320A5FCEC0023B617 /* mew2-3.gpx */,
+				A139C4E120A5E81D0023B617 /* mob.gpx */,
 				A194AF2B1F61D31800F99A8F /* 桃園.gpx */,
 				A1D880FE1F4F44E10097520E /* gps.gpx */,
 				A110F3931F4DB1A4005F183E /* 中壢.gpx */,
@@ -273,7 +279,9 @@
 			files = (
 				A1D880FF1F4F44E10097520E /* gps.gpx in Resources */,
 				A110F3921F4C7250005F183E /* 竹北.gpx in Resources */,
+				A139C4E220A5E81D0023B617 /* mob.gpx in Resources */,
 				A110F3941F4DB1A4005F183E /* 中壢.gpx in Resources */,
+				A139C4E420A5FCEC0023B617 /* mew2-3.gpx in Resources */,
 				A1A4D8681F25566D0034E21B /* 大安森林公園.gpx in Resources */,
 				A15A09E11DE5E24B00521CF1 /* LaunchScreen.storyboard in Resources */,
 				A15A0A231DE73C6500521CF1 /* scan.gpx in Resources */,
