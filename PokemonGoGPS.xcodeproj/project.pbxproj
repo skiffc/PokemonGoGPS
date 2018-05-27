@@ -20,6 +20,14 @@
 		A15A09EC1DE5E24B00521CF1 /* PokemonGoGPSTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A15A09EB1DE5E24B00521CF1 /* PokemonGoGPSTests.swift */; };
 		A15A09F71DE5E24B00521CF1 /* PokemonGoGPSUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A15A09F61DE5E24B00521CF1 /* PokemonGoGPSUITests.swift */; };
 		A15A0A231DE73C6500521CF1 /* scan.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A15A0A211DE73C6500521CF1 /* scan.gpx */; };
+		A15B670C20BA326A003F8FAC /* 台南市政府.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A15B670420BA3268003F8FAC /* 台南市政府.gpx */; };
+		A15B670D20BA326A003F8FAC /* mew2-2.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A15B670520BA3269003F8FAC /* mew2-2.gpx */; };
+		A15B670E20BA326A003F8FAC /* 東京.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A15B670620BA3269003F8FAC /* 東京.gpx */; };
+		A15B670F20BA326A003F8FAC /* 新宿.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A15B670720BA3269003F8FAC /* 新宿.gpx */; };
+		A15B671020BA326A003F8FAC /* 建中.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A15B670820BA3269003F8FAC /* 建中.gpx */; };
+		A15B671120BA326A003F8FAC /* mew2-1.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A15B670920BA3269003F8FAC /* mew2-1.gpx */; };
+		A15B671220BA326A003F8FAC /* 江戶.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A15B670A20BA326A003F8FAC /* 江戶.gpx */; };
+		A15B671320BA326A003F8FAC /* 目黑.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A15B670B20BA326A003F8FAC /* 目黑.gpx */; };
 		A194AF2C1F61D31800F99A8F /* 桃園.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A194AF2B1F61D31800F99A8F /* 桃園.gpx */; };
 		A1A4D8681F25566D0034E21B /* 大安森林公園.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A1A4D8671F25566D0034E21B /* 大安森林公園.gpx */; };
 		A1A4D8801F2A48F40034E21B /* 大台北.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A1A4D87F1F2A48F40034E21B /* 大台北.gpx */; };
@@ -67,6 +75,14 @@
 		A15A09F61DE5E24B00521CF1 /* PokemonGoGPSUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokemonGoGPSUITests.swift; sourceTree = "<group>"; };
 		A15A09F81DE5E24B00521CF1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A15A0A211DE73C6500521CF1 /* scan.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = scan.gpx; sourceTree = "<group>"; };
+		A15B670420BA3268003F8FAC /* 台南市政府.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "台南市政府.gpx"; sourceTree = "<group>"; };
+		A15B670520BA3269003F8FAC /* mew2-2.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "mew2-2.gpx"; sourceTree = "<group>"; };
+		A15B670620BA3269003F8FAC /* 東京.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "東京.gpx"; sourceTree = "<group>"; };
+		A15B670720BA3269003F8FAC /* 新宿.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "新宿.gpx"; sourceTree = "<group>"; };
+		A15B670820BA3269003F8FAC /* 建中.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "建中.gpx"; sourceTree = "<group>"; };
+		A15B670920BA3269003F8FAC /* mew2-1.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "mew2-1.gpx"; sourceTree = "<group>"; };
+		A15B670A20BA326A003F8FAC /* 江戶.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "江戶.gpx"; sourceTree = "<group>"; };
+		A15B670B20BA326A003F8FAC /* 目黑.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "目黑.gpx"; sourceTree = "<group>"; };
 		A194AF2B1F61D31800F99A8F /* 桃園.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "桃園.gpx"; sourceTree = "<group>"; };
 		A1A4D8671F25566D0034E21B /* 大安森林公園.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "大安森林公園.gpx"; sourceTree = "<group>"; };
 		A1A4D87F1F2A48F40034E21B /* 大台北.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "大台北.gpx"; sourceTree = "<group>"; };
@@ -105,6 +121,14 @@
 		A15A09CA1DE5E24B00521CF1 = {
 			isa = PBXGroup;
 			children = (
+				A15B670420BA3268003F8FAC /* 台南市政府.gpx */,
+				A15B670B20BA326A003F8FAC /* 目黑.gpx */,
+				A15B670A20BA326A003F8FAC /* 江戶.gpx */,
+				A15B670620BA3269003F8FAC /* 東京.gpx */,
+				A15B670820BA3269003F8FAC /* 建中.gpx */,
+				A15B670720BA3269003F8FAC /* 新宿.gpx */,
+				A15B670920BA3269003F8FAC /* mew2-1.gpx */,
+				A15B670520BA3269003F8FAC /* mew2-2.gpx */,
 				A139C4E320A5FCEC0023B617 /* mew2-3.gpx */,
 				A139C4E120A5E81D0023B617 /* mob.gpx */,
 				A194AF2B1F61D31800F99A8F /* 桃園.gpx */,
@@ -277,19 +301,27 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A15B670E20BA326A003F8FAC /* 東京.gpx in Resources */,
 				A1D880FF1F4F44E10097520E /* gps.gpx in Resources */,
 				A110F3921F4C7250005F183E /* 竹北.gpx in Resources */,
 				A139C4E220A5E81D0023B617 /* mob.gpx in Resources */,
 				A110F3941F4DB1A4005F183E /* 中壢.gpx in Resources */,
 				A139C4E420A5FCEC0023B617 /* mew2-3.gpx in Resources */,
 				A1A4D8681F25566D0034E21B /* 大安森林公園.gpx in Resources */,
+				A15B670C20BA326A003F8FAC /* 台南市政府.gpx in Resources */,
+				A15B671220BA326A003F8FAC /* 江戶.gpx in Resources */,
+				A15B671020BA326A003F8FAC /* 建中.gpx in Resources */,
+				A15B670F20BA326A003F8FAC /* 新宿.gpx in Resources */,
 				A15A09E11DE5E24B00521CF1 /* LaunchScreen.storyboard in Resources */,
 				A15A0A231DE73C6500521CF1 /* scan.gpx in Resources */,
 				A15A09DE1DE5E24B00521CF1 /* Assets.xcassets in Resources */,
 				A1A4D88A1F31F0BD0034E21B /* 清華大學.gpx in Resources */,
+				A15B670D20BA326A003F8FAC /* mew2-2.gpx in Resources */,
 				A1A4D8801F2A48F40034E21B /* 大台北.gpx in Resources */,
 				A15A09DC1DE5E24B00521CF1 /* Main.storyboard in Resources */,
 				A194AF2C1F61D31800F99A8F /* 桃園.gpx in Resources */,
+				A15B671120BA326A003F8FAC /* mew2-1.gpx in Resources */,
+				A15B671320BA326A003F8FAC /* 目黑.gpx in Resources */,
 				A1E0E2CE1F0AA8170074C966 /* move.gpx in Resources */,
 				A1E0E2D01F1256010074C966 /* chubei.gpx in Resources */,
 				A1A4D8861F30AD910034E21B /* 新竹火車站.gpx in Resources */,
