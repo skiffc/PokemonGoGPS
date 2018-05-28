@@ -31,6 +31,9 @@
 		A15B671720BBFF7F003F8FAC /* 東京市川.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A15B671420BBFF7E003F8FAC /* 東京市川.gpx */; };
 		A15B671820BBFF7F003F8FAC /* 東京葛飾.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A15B671520BBFF7E003F8FAC /* 東京葛飾.gpx */; };
 		A15B671920BBFF7F003F8FAC /* 東京文京.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A15B671620BBFF7F003F8FAC /* 東京文京.gpx */; };
+		A15B671D20BC56FF003F8FAC /* 涉谷.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A15B671A20BC56FE003F8FAC /* 涉谷.gpx */; };
+		A15B671E20BC56FF003F8FAC /* 千代田.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A15B671B20BC56FF003F8FAC /* 千代田.gpx */; };
+		A15B671F20BC56FF003F8FAC /* 東京中央.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A15B671C20BC56FF003F8FAC /* 東京中央.gpx */; };
 		A194AF2C1F61D31800F99A8F /* 桃園.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A194AF2B1F61D31800F99A8F /* 桃園.gpx */; };
 		A1A4D8681F25566D0034E21B /* 大安森林公園.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A1A4D8671F25566D0034E21B /* 大安森林公園.gpx */; };
 		A1A4D8801F2A48F40034E21B /* 大台北.gpx in Resources */ = {isa = PBXBuildFile; fileRef = A1A4D87F1F2A48F40034E21B /* 大台北.gpx */; };
@@ -89,6 +92,9 @@
 		A15B671420BBFF7E003F8FAC /* 東京市川.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "東京市川.gpx"; sourceTree = "<group>"; };
 		A15B671520BBFF7E003F8FAC /* 東京葛飾.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "東京葛飾.gpx"; sourceTree = "<group>"; };
 		A15B671620BBFF7F003F8FAC /* 東京文京.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "東京文京.gpx"; sourceTree = "<group>"; };
+		A15B671A20BC56FE003F8FAC /* 涉谷.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "涉谷.gpx"; sourceTree = "<group>"; };
+		A15B671B20BC56FF003F8FAC /* 千代田.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "千代田.gpx"; sourceTree = "<group>"; };
+		A15B671C20BC56FF003F8FAC /* 東京中央.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "東京中央.gpx"; sourceTree = "<group>"; };
 		A194AF2B1F61D31800F99A8F /* 桃園.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "桃園.gpx"; sourceTree = "<group>"; };
 		A1A4D8671F25566D0034E21B /* 大安森林公園.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "大安森林公園.gpx"; sourceTree = "<group>"; };
 		A1A4D87F1F2A48F40034E21B /* 大台北.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "大台北.gpx"; sourceTree = "<group>"; };
@@ -127,6 +133,9 @@
 		A15A09CA1DE5E24B00521CF1 = {
 			isa = PBXGroup;
 			children = (
+				A15B671B20BC56FF003F8FAC /* 千代田.gpx */,
+				A15B671C20BC56FF003F8FAC /* 東京中央.gpx */,
+				A15B671A20BC56FE003F8FAC /* 涉谷.gpx */,
 				A15B671620BBFF7F003F8FAC /* 東京文京.gpx */,
 				A15B671420BBFF7E003F8FAC /* 東京市川.gpx */,
 				A15B671520BBFF7E003F8FAC /* 東京葛飾.gpx */,
@@ -328,8 +337,10 @@
 				A1A4D88A1F31F0BD0034E21B /* 清華大學.gpx in Resources */,
 				A15B670D20BA326A003F8FAC /* mew2-2.gpx in Resources */,
 				A1A4D8801F2A48F40034E21B /* 大台北.gpx in Resources */,
+				A15B671E20BC56FF003F8FAC /* 千代田.gpx in Resources */,
 				A15A09DC1DE5E24B00521CF1 /* Main.storyboard in Resources */,
 				A194AF2C1F61D31800F99A8F /* 桃園.gpx in Resources */,
+				A15B671F20BC56FF003F8FAC /* 東京中央.gpx in Resources */,
 				A15B671120BA326A003F8FAC /* mew2-1.gpx in Resources */,
 				A15B671920BBFF7F003F8FAC /* 東京文京.gpx in Resources */,
 				A15B671320BA326A003F8FAC /* 目黑.gpx in Resources */,
@@ -337,6 +348,7 @@
 				A1E0E2D01F1256010074C966 /* chubei.gpx in Resources */,
 				A15B671820BBFF7F003F8FAC /* 東京葛飾.gpx in Resources */,
 				A1A4D8861F30AD910034E21B /* 新竹火車站.gpx in Resources */,
+				A15B671D20BC56FF003F8FAC /* 涉谷.gpx in Resources */,
 				A110F3901F41E92A005F183E /* 橫濱.gpx in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
